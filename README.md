@@ -16,5 +16,5 @@ I’m a Panamanian who describes himself as a creative and minimalist. I like to
 - [LinkedIn](https://linkedin.com/in/albertocastillog)
 - [Mastodon](https://mastodon.social/@betoissues@fosstodon.org) 
 
-## 💰 You can help me by Donating
+## 💰 You can support me by Donating
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/betoissues) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/betoissues) 
