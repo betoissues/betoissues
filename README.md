@@ -1,8 +1,6 @@
 # 💫 About Me:
 I’m a Panamanian who describes himself as a creative and minimalist. I like to bring<br>those concepts to my daily life, in disciplines like computer science, music, and writing.<br>I started writing code back in 2007, and started using Linux in 2010; since then my<br>passion for technology, especially for open-source, has evolved and got caught by the<br>never-ending learning experience.
 
-[![](https://visitcount.itsvg.in/api?id=betoissues&icon=0&color=2)](https://visitcount.itsvg.in)
-
 # 💻 Tech Stack:
 - **Languages**: Go, Python, PHP, TypeScript/JavaScript, Bash.
 - **Cloud Services**: AWS, Cloudflare, DigitalOcean, GitHub Pages, Vultr, Datadog.
